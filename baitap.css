@@ -1,0 +1,214 @@
+
+.row{
+width: 80%;
+margin: 0 auto;
+
+}
+.head{
+	width: 100%;
+	height: 30px;
+	background: #212121;
+}
+.row .col{
+	color: #fff;
+}
+.row .col ul li{
+
+	list-style: none;
+	float: left;
+	margin-left: 2px;
+}
+.row .col ul{
+	margin: 0px;
+	padding: 0px;
+}
+.header{
+	width: 100%;
+	height: 100px; 
+
+}
+.header ul li{
+	margin-top: 15px;	
+	float: left;
+	list-style: none;
+
+}
+.menu{
+	background: #bf0000;
+	width: 100%;
+	height: 70px;
+
+}
+.menu .row ul{
+	padding: 0px;
+	margin: 0px;
+}
+.menu .row ul li{
+	list-style: none;
+	float: left;
+}
+.menu .row ul li a{
+	text-decoration: none;
+	display: block;
+	line-height: 70px;
+	height: 70px;
+	color: #fff;
+	font-size: 15px;
+	padding: 0 10px 0 10px;
+}
+.menu .row ul li a:hover{
+	background: #880000;
+}
+.pict{
+	width: 100%;
+	height: 380px;
+	background: gray;
+}
+.pict .row img{
+	width: 100%;
+	height: 300px;
+}
+./*slider{
+	width: 100%;
+	height: 50px;
+	background: gray;
+	margin-top: 20px;*/
+	
+}
+.row .col .hinh{
+	width: 100%;
+	height: 70%;
+	float: left;
+}
+.row .col .chu{
+	width: 100%;
+	height: 30%;
+	float: left;
+}
+.row .col .hinh img{
+	width: 100%;
+	height: 100%;
+}
+.row .col .chu{
+	color: black;
+	font-size: 18px;
+	text-align: center;
+}
+.v{
+	width: 1220px;
+	height: 700px;
+	/*background: red;*/
+}
+.v1{
+	width: 100%;
+	height: 45%;
+	/*background: yellow;*/
+	margin-top: 25px;
+	float: left;			
+}
+.v11{
+	width: 24%;
+	height: 100%;
+	/*background: blue;*/
+	float: left;
+	margin-left: 10px;
+}
+.ca{
+	width: 100%;
+	height: 80%;
+	/*background: violet;*/
+
+}
+.ca img{
+	width: 100%;
+	height: 100%;
+}
+.cav{
+	width: 100%;
+	height: 20%;
+	/*background: orange;*/
+	float: left;
+}
+.cav p{
+	font-size: 18px;
+	text-align: center;
+}
+.d{
+	width: 1220px;
+	height: 350px;
+	/*background: red;*/
+}
+.d1{
+	width: 100%;
+	height: 100%;
+	/*background: yellow;*/
+	margin-top: 25px;
+	float: left;			
+}
+.d11{
+	width: 24%;
+	height: 100%;
+	/*background: blue;*/
+	float: left;
+	margin-left: 10px;
+}
+.c{
+	width: 100%;
+	/*background: pink;*/
+}
+.caa{
+	width: 100%;
+	height: 25%;
+	/*background: orange;*/
+	float: left;
+}
+.c img{
+	width: 100%;
+	height: 100%;
+}
+.n1{
+	width: 48%;
+	height: 100%;
+	/*background: brown;*/
+	margin-left: 10px;
+	float: left;
+}
+.logo{
+	width: 100%;
+	height: 100px;
+	/*background: yellow;*/
+}
+.logo img{
+	width: 35%;
+	height: 60%;
+}
+.n1 p{
+	color: white;
+font-size: 18px;
+font-weight: bold;
+}
+.n1 li{
+	color: white;
+}
+.n2{
+	width: 48%;
+	height: 100%;
+	background: black;
+	margin-left: 10px;
+	float: left;
+}
+input{
+	width: 250px;
+	height: 30px;
+}
+.icon{
+	width: 100%;
+	height: 50px;
+	/*background: white;*/
+}
+.icon button{
+	width: 30px;
+	height: 30px;
+	background: violet;
+	border-radius: 50%;
+}
